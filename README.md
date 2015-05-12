@@ -1,5 +1,5 @@
 # AKJetsMatchingCFIs
-Two cfi.py files to be used for matching AK4 and AK8 jets to Gen level particles (u,d,s,c,t,b,W), to be used with CMSSW package PhysicsTools/HepMCCandAlgos
+Two cfi.py files to be used for matching AK4 and AK8 jets to Gen level particles (u,d,s,c,t,b,W), to be used with CMSSW package PhysicsTools/HepMCCandAlgos.
 Comprises of two EDFilter modules for AK4 jets and AK8 jets. 
 The modules create one-to-one association maps between the spicified MC and Generator level objects, of the same name as the module
 
